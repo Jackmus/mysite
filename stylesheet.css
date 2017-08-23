@@ -1,0 +1,25 @@
+.p01 {
+    border: 1px solid powderblue;
+    padding:5px;
+    color:rgb(0,20,100);
+    font-family:verdana;
+    text-align:center;
+}
+
+body {
+	background-image: url("fog-1220491_1920.jpg");
+}
+
+address {
+	position:relative;
+	top:580px;
+	left:10px;
+	color:midnightblue;
+}
+.container{
+position:relative;
+height:inherit;
+width:60%;
+margin:auto;
+text-align:center;
+}
